@@ -1,31 +1,31 @@
-# Technical Writing Lab (22CST206)
+# 📚 Technical Writing Lab (22CST206)
 
 **ROHAN JOSHI | B.Tech CSE (2025-2029) | MNIT Jaipur**
 
-> **Learn. Document. Collaborate. Version.**
+> 💡 **Learn. Document. Collaborate. Version.**
 
-## Directory Structure
+## 📂 Directory Structure
 
 | Module | Topic | Notes & Files |
 | :--- | :--- | :--- |
-| **01** | **LaTeX** | [Typesetting, math mode, figures, and citations](1-LaTeX/README.md) |
-| **02** | **Beamer** | [Slide decks, themes, blocks, and overlays](2-Beamer/README.md) |
-| **03** | **Doxygen** | [Code comments, Doxyfile config, HTML/LaTeX output](3-Doxygen/README.md) |
-| **04** | **Google Docs** | [Formatting, permissions, version history, and review workflows](4-GoogleDocs/README.md) |
-| **05** | **Git** | [Version control concepts](05-Git/README.md)
+| **01** | 📝 **LaTeX** | [Typesetting, math mode, figures, and citations](1-LaTeX/README.md) |
+| **02** | 📊 **Beamer** | [Slide decks, themes, blocks, and overlays](2-Beamer/README.md) |
+| **03** | ⚙️ **Doxygen** | [Code comments, Doxyfile config, HTML/LaTeX output](3-Doxygen/README.md) |
+| **04** | 📄 **Google Docs** | [Formatting, permissions, version history, and review workflows](4-GoogleDocs/README.md) |
+| **05** | 🌿 **Git** | [Version control concepts](05-Git/README.md) |
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 
-* **Typesetting & Presentations:** LaTeX, Beamer, Overleaf
-* **Code & Web Docs:** Doxygen, Markdown
-* **Collaboration:** Google Docs, GitHub
-* **Version Control & Editor:** Git, VS Code
+- ✍️ **Typesetting & Presentations:** LaTeX, Beamer, Overleaf
+- ⚙️ **Code & Web Docs:** Doxygen, Markdown
+- 🤝 **Collaboration:** Google Docs, GitHub
+- 💻 **Version Control & Editor:** Git, VS Code
 
 ---
 
-## Common Git Commands
+## ⌨️ Common Git Commands
 
 A quick look at the commands used regularly throughout the labs. See [`05-Git/git-commands.md`](05-Git/git-commands.md) for the complete reference and examples.
 
@@ -43,13 +43,13 @@ A quick look at the commands used regularly throughout the labs. See [`05-Git/gi
 
 ---
 
-## References
+## 🔗 References
 
-* **LaTeX & Beamer:** [LaTeX Project](https://www.latex-project.org/) · [Overleaf Learn](https://www.overleaf.com/learn) · [Beamer User Guide](https://ctan.org/pkg/beamer)
-* **Doxygen & Markdown:** [Doxygen Manual](https://www.doxygen.nl/manual/) · [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github)
-* **Docs & Version Control:** [Google Docs Help](https://support.google.com/docs/) · [Git Documentation](https://git-scm.com/doc) · [GitHub Docs](https://docs.github.com/)
+- 📝 **LaTeX & Beamer:** [LaTeX Project](https://www.latex-project.org/) · [Overleaf Learn](https://www.overleaf.com/learn) · [Beamer User Guide](https://ctan.org/pkg/beamer)
+- ⚙️ **Doxygen & Markdown:** [Doxygen Manual](https://www.doxygen.nl/manual/) · [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github)
+- 🌿 **Docs & Version Control:** [Google Docs Help](https://support.google.com/docs/) · [Git Documentation](https://git-scm.com/doc) · [GitHub Docs](https://docs.github.com/)
 
 ---
 
-**Rohan Joshi**  
-B.Tech, Computer Science & Engineering — MNIT Jaipur
+👨‍💻 **Rohan Joshi**  
+🎓 B.Tech, Computer Science & Engineering — MNIT Jaipur
