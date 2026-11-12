@@ -1,0 +1,7 @@
+PROJECT_NAME           = "Calculator"
+OUTPUT_DIRECTORY       = "docs"
+INPUT                  = "calculator.cpp"
+EXTRACT_ALL            = YES
+JAVADOC_AUTOBRIEF      = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
